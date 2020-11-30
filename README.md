@@ -16,7 +16,7 @@ O desafio consiste em consumir a api do github, para listar os usuários, e ent�
 Texto do desafio proposto pode ser encontrado [aqui](https://github.com/levisfront/api-github-interview).
 
 ## **Instalação**
-1 - Clonar o [repositório](https://github.com/MateusTymoniuk/gostack2020-desafio10-reactjs-crud) em seu computador.
+1 - Clonar o [repositório](https://github.com/MateusTymoniuk/api-github-interview) em seu computador.
 
 2 - **Instalar as dependências do projeto** digitando no terminal o comando:
 
